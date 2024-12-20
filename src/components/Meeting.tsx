@@ -25,7 +25,7 @@ export function Meeting({ meeting, searchWords, tags }: MeetingProps) {
     strings.saturday,
   ];
   return (
-	
+
     <Box
       as="article"
       bg="white"
